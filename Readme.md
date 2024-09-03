@@ -1,0 +1,14 @@
+Links
+https://www.h-schmidt.net/FloatConverter/IEEE754.html
+https://github.com/AnthonyBongers/CppFloatsInDepth/blob/master/FloatInspector.cpp
+https://github.com/arpra-project/arpra
+https://github.com/AnthonyBongers/CppFloatsInDepth/blob/master/FloatInspector.cpp
+https://github.com/microsoft/STL/issues/2613
+https://github.com/DigitalInBlue/CPPCon2015
+https://web.mat.bham.ac.uk/R.W.Kaye/numerics/errors.html
+https://github.com/fmtlib/fmt/issues/990
+https://github.com/ffevotte/libeft
+https://www.learncpp.com/cpp-tutorial/relational-operators-and-floating-point-comparisons/#google_vignette
+https://www.learncpp.com/cpp-tutorial/floating-point-numbers/
+https://fpbench.org/community.html
+https://github.com/higham/float_params/blob/master/float_params.m
